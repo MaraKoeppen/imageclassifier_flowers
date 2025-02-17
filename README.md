@@ -1,5 +1,5 @@
 ## **🚀 Overview**
-# **AI Image Classifier - Final Project**
+# **AI Image Classifier - Flowers**
 This repository contains the final project for the AI Programming with Python course. The project focuses on building an **Image Classifier** using pre-trained models  **VGG16** and **DenseNet121** to predict flower species from images.
 script to demonstrate how to train a convolutional network and use it for prediction (~8000 flower images)
 
